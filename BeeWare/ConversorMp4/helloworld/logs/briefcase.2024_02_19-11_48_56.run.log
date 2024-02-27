@@ -1,0 +1,338 @@
+Date/Time:       2024-02-19 11:48:57 
+Command line:    C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\venv\Scripts\briefcase run android
+
+OS Release:      Windows 11
+OS Version:      10.0.22631
+Architecture:    AMD64
+Platform:        Windows-11-10.0.22631-SP0
+
+Python exe:      C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\venv\Scripts\python.exe
+Python version:  3.12.2 (tags/v3.12.2:6abddd9, Feb  6 2024, 21:26:36) [MSC v.1937 64 bit (AMD64)]
+Virtual env:     True
+Conda env:       False
+
+Briefcase:       0.3.17
+Target platform: android
+Target format:   gradle
+
+Environment Variables:
+	ALLUSERSPROFILE=C:\ProgramData
+	APPDATA=C:\Users\julierme.silva\AppData\Roaming
+	CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_19500_IJEZKUXUWNGTCFMS
+	COLORTERM=truecolor
+	COMMONPROGRAMFILES=C:\Program Files\Common Files
+	COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+	COMMONPROGRAMW6432=C:\Program Files\Common Files
+	COMPUTERNAME=NB019049
+	COMSPEC=C:\WINDOWS\system32\cmd.exe
+	DRIVERDATA=C:\Windows\System32\Drivers\DriverData
+	EFC_1556=1
+	FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+	FPS_BROWSER_USER_PROFILE_STRING=Default
+	GIT_ASKPASS=********************
+	HOMEDRIVE=C:
+	HOMEPATH=\Users\julierme.silva
+	LANG=en_US.UTF-8
+	LOCALAPPDATA=C:\Users\julierme.silva\AppData\Local
+	LOGONSERVER=\\MITSUBISHI
+	NUMBER_OF_PROCESSORS=8
+	ONEDRIVE=C:\Users\julierme.silva\OneDrive - Senior Sistemas SA
+	ONEDRIVECOMMERCIAL=C:\Users\julierme.silva\OneDrive - Senior Sistemas SA
+	ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+	OS=Windows_NT
+	PATH=C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\venv\Scripts;c:\Users\julierme.silva\.vscode\extensions\ms-python.python-2024.0.1\pythonFiles\deactivate\powershell;C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\venv\Scripts;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\app\jonathan.vilela\product\12.1.0\client_1;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\julierme.silva\AppData\Local\Microsoft\WindowsApps;C:\Users\julierme.silva\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\julierme.silva\AppData\Local\Programs\Git\cmd;
+	PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.CPL
+	PROCESSOR_ARCHITECTURE=AMD64
+	PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+	PROCESSOR_LEVEL=6
+	PROCESSOR_REVISION=8e0c
+	PROGRAMDATA=C:\ProgramData
+	PROGRAMFILES=C:\Program Files
+	PROGRAMFILES(X86)=C:\Program Files (x86)
+	PROGRAMW6432=C:\Program Files
+	PSMODULEPATH=C:\Users\julierme.silva\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+	PUBLIC=C:\Users\Public
+	PYTHONUSERBASE=C:\Users\julierme.silva\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages
+	SESSIONNAME=Console
+	SYSTEMDRIVE=C:
+	SYSTEMROOT=C:\WINDOWS
+	TEMP=C:\Users\JULIER~1.SIL\AppData\Local\Temp
+	TERM_PROGRAM=vscode
+	TERM_PROGRAM_VERSION=1.86.2
+	TMP=C:\Users\JULIER~1.SIL\AppData\Local\Temp
+	TNS_ADMIN=\\impala\tnsnames\
+	USERDNSDOMAIN=INTERNO.SENIOR.COM.BR
+	USERDOMAIN=SENIOR
+	USERDOMAIN_ROAMINGPROFILE=SENIOR
+	USERNAME=julierme.silva
+	USERPROFILE=C:\Users\julierme.silva
+	VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+	VIRTUAL_ENV=C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\venv
+	VIRTUAL_ENV_PROMPT=venv
+	VSCODE_GIT_ASKPASS_EXTRA_ARGS=********************
+	VSCODE_GIT_ASKPASS_MAIN=********************
+	VSCODE_GIT_ASKPASS_NODE=********************
+	VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-e74082e978-sock
+	VSCODE_INJECTION=1
+	WINDIR=C:\WINDOWS
+	ZES_ENABLE_SYSMAN=1
+	_OLD_VIRTUAL_PATH=c:\Users\julierme.silva\.vscode\extensions\ms-python.python-2024.0.1\pythonFiles\deactivate\powershell;C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\venv\Scripts;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\app\jonathan.vilela\product\12.1.0\client_1;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\julierme.silva\AppData\Local\Microsoft\WindowsApps;C:\Users\julierme.silva\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\julierme.silva\AppData\Local\Programs\Git\cmd;
+	__PSLOCKDOWNPOLICY=0
+
+Briefcase Log:
+[11:48:47] Using JDK at C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\java17                                                                       java.py:261
+           Using Android SDK at C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                   android_sdk.py:363
+           Android emulator is already installed.                                                                                                                 android_sdk.py:638
+                                                                                                                                                                   subprocess.py:711
+           >>> Running Command:                                                                                                                                    subprocess.py:711
+           >>>     'C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\platform-tools\adb.exe' devices -l                             subprocess.py:711
+           >>> Working Directory:                                                                                                                                  subprocess.py:711
+           >>>     C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\helloworld                                                                               subprocess.py:711
+[11:48:48] >>> Command Output:                                                                                                                                     subprocess.py:711
+           >>>     List of devices attached                                                                                                                        subprocess.py:711
+           >>>                                                                                                                                                     subprocess.py:711
+           >>> Return code: 0                                                                                                                                      subprocess.py:711
+                                                                                                                                                                   subprocess.py:711
+           >>> Running Command:                                                                                                                                    subprocess.py:711
+           >>>     'C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\emulator\emulator.exe' -list-avds                              subprocess.py:711
+           >>> Working Directory:                                                                                                                                  subprocess.py:711
+           >>>     C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\helloworld                                                                               subprocess.py:711
+           >>> Command Output:                                                                                                                                     subprocess.py:711
+           >>>     beePhone                                                                                                                                        subprocess.py:711
+           >>> Return code: 0                                                                                                                                      subprocess.py:711
+                                                                                                                                                                 android_sdk.py:1023
+           Select device:                                                                                                                                        android_sdk.py:1024
+                                                                                                                                                                 android_sdk.py:1025
+             1) @beePhone (emulator)                                                                                                                                  console.py:730
+             2) Create a new Android emulator                                                                                                                         console.py:730
+                                                                                                                                                                      console.py:732
+[11:48:54] >                                                                                                                                                          console.py:735
+           User input: 1                                                                                                                                              console.py:735
+                                                                                                                                                                 android_sdk.py:1070
+           In future, you can specify this device by running:                                                                                                    android_sdk.py:1070
+                                                                                                                                                                 android_sdk.py:1070
+               $ briefcase run android -d "@beePhone"                                                                                                            android_sdk.py:1070
+           Device skin 'pixel_7_pro' already exists.                                                                                                              android_sdk.py:799
+                                                                                                                                                                       gradle.py:397
+           [helloworld] Starting emulator beePhone...                                                                                                                  gradle.py:397
+                                                                                                                                                                   subprocess.py:711
+           >>> Running Command:                                                                                                                                    subprocess.py:711
+           >>>     'C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\emulator\emulator.exe' -list-avds                              subprocess.py:711
+           >>> Working Directory:                                                                                                                                  subprocess.py:711
+           >>>     C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\helloworld                                                                               subprocess.py:711
+           >>> Command Output:                                                                                                                                     subprocess.py:711
+           >>>     beePhone                                                                                                                                        subprocess.py:711
+           >>> Return code: 0                                                                                                                                      subprocess.py:711
+                                                                                                                                                                   subprocess.py:711
+           >>> Running Command:                                                                                                                                    subprocess.py:711
+           >>>     'C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\emulator\emulator.exe' @beePhone -dns-server 8.8.8.8           subprocess.py:711
+           >>> Working Directory:                                                                                                                                  subprocess.py:711
+           >>>     C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\helloworld                                                                               subprocess.py:711
+           >>> Environment Overrides:                                                                                                                              subprocess.py:711
+           >>>     ANDROID_HOME=C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                    subprocess.py:711
+           >>>     ANDROID_SDK_ROOT=C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                subprocess.py:711
+           >>>     JAVA_HOME=C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\java17                                                            subprocess.py:711
+                                                                                                                                                                   subprocess.py:711
+           >>> Running Command:                                                                                                                                    subprocess.py:711
+           >>>     'C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\platform-tools\adb.exe' devices -l                             subprocess.py:711
+           >>> Working Directory:                                                                                                                                  subprocess.py:711
+           >>>     C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\helloworld                                                                               subprocess.py:711
+           >>> Command Output:                                                                                                                                     subprocess.py:711
+           >>>     List of devices attached                                                                                                                        subprocess.py:711
+           >>>                                                                                                                                                     subprocess.py:711
+           >>> Return code: 0                                                                                                                                      subprocess.py:711
+[11:48:56] Starting emulator...                                                                                                                                  android_sdk.py:1340
+                                                                                                                                                                 android_sdk.py:1385
+           [android_sdk] Emulator output log for startup failure                                                                                                 android_sdk.py:1385
+           INFO    | Android emulator version 33.1.24.0 (build_id 11237101) (CL:N/A)                                                                             android_sdk.py:1391
+           INFO    | Found systemPath C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\system-images\android-31\default\x86_64\   android_sdk.py:1391
+           WARNING | Please update the emulator to one that supports the feature(s): Vulkan                                                                      android_sdk.py:1391
+           WARNING | Failed to process .ini file C:\Users\julierme.silva\.android\avd\..\avd\beePhone.avd\quickbootChoice.ini for reading.                       android_sdk.py:1391
+           ERROR   | x86_64 emulation currently requires hardware acceleration!                                                                                  android_sdk.py:1391
+           CPU acceleration status: Android Emulator hypervisor driver is not installed on this machine                                                          android_sdk.py:1391
+           More info on configuring VM acceleration on Windows:                                                                                                  android_sdk.py:1391
+           https://developer.android.com/studio/run/emulator-acceleration#vm-windows                                                                             android_sdk.py:1391
+           General information on acceleration: https://developer.android.com/studio/run/emulator-acceleration.                                                  android_sdk.py:1391
+           INFO    | Storing crashdata in: , detection is enabled for process: 14756                                                                             android_sdk.py:1391
+           INFO    | Duplicate loglines will be removed, if you wish to see each individual line launch with the -log-nofilter flag.                             android_sdk.py:1391
+           INFO    | Increasing RAM size to 2048MB                                                                                                               android_sdk.py:1391
+                                                                                                                                                                      __main__.py:44
+           Android emulator was unable to start!                                                                                                                      __main__.py:45
+                                                                                                                                                                      __main__.py:45
+           Review the emulator output above for:                                                                                                                      __main__.py:45
+            - Troubleshooting or resolution steps such as enabling hardware acceleration                                                                              __main__.py:45
+            - Other errors or warnings that may be suggesting the cause of the startup failure                                                                        __main__.py:45
+                                                                                                                                                                      __main__.py:45
+           Ensure your Android SDK is up-to-date by running:                                                                                                          __main__.py:45
+                                                                                                                                                                      __main__.py:45
+               $ briefcase update android_sdk                                                                                                                         __main__.py:45
+                                                                                                                                                                      __main__.py:45
+           To review Google's general troubleshooting steps for the emulator, visit:                                                                                  __main__.py:45
+                                                                                                                                                                      __main__.py:45
+               https://developer.android.com/studio/run/emulator-troubleshooting                                                                                      __main__.py:45
+                                                                                                                                                                      __main__.py:45
+           You can also start the emulator manually by running:                                                                                                       __main__.py:45
+                                                                                                                                                                      __main__.py:45
+               $ C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\emulator\emulator.exe "@beePhone" -dns-server 8.8.8.8                __main__.py:45
+
+Main thread traceback:
+╭─────────────────────────────────────────────────────────────────────── Traceback (most recent call last) ────────────────────────────────────────────────────────────────────────╮
+│ C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\venv\Lib\site-packages\briefcase\__main__.py:29 in main                                                                   │
+│                                                                                                                                                                                  │
+│   26 │   │   │   Path.cwd() / "pyproject.toml",                                                                                                                                  │
+│   27 │   │   │   overrides=overrides,                                                                                                                                            │
+│   28 │   │   )                                                                                                                                                                   │
+│ ❱ 29 │   │   command(**options)                                                                                                                                                  │
+│   30 │   except HelpText as e:                                                                                                                                                   │
+│   31 │   │   logger.info()                                                                                                                                                       │
+│   32 │   │   logger.info(str(e))                                                                                                                                                 │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────────────────────────────────────────── locals ───────────────────────────────────────────────────────────────────────────────────╮ │
+│ │       command = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x0000016A56AC58B0>                                                                           │ │
+│ │       Command = <class 'briefcase.platforms.android.gradle.GradleRunCommand'>                                                                                                │ │
+│ │       console = <briefcase.console.Console object at 0x0000016A56A68EF0>                                                                                                     │ │
+│ │             e = BriefcaseCommandError('Android emulator was unable to start!\n\nReview the emulator output above for:\n - Troubleshooting or resolution steps such as        │ │
+│ │                 enabling hardware acceleration\n - Other errors or warnings that may be suggesting the cause of the startup failure\n\nEnsure your Android SDK is up-to-date │ │
+│ │                 by running:\n\n    $ briefcase update android_sdk\n\nTo review Google\'s general troubleshooting steps for the emulator, visit:\n\n                          │ │
+│ │                 https://developer.android.com/studio/run/emulator-troubleshooting\n\nYou can also start the emulator manually by running:\n\n    $                           │ │
+│ │                 C:\\Users\\julierme.silva\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk\\emulator\\emulator.exe "@beePhone" -dns-server 8.8.8.8\n')         │ │
+│ │ extra_cmdline = []                                                                                                                                                           │ │
+│ │        logger = <briefcase.console.Log object at 0x0000016A56AC5700>                                                                                                         │ │
+│ │       options = {                                                                                                                                                            │ │
+│ │                 │   'appname': None,                                                                                                                                         │ │
+│ │                 │   'update': False,                                                                                                                                         │ │
+│ │                 │   'update_requirements': False,                                                                                                                            │ │
+│ │                 │   'update_support': False,                                                                                                                                 │ │
+│ │                 │   'update_resources': False,                                                                                                                               │ │
+│ │                 │   'no_update': False,                                                                                                                                      │ │
+│ │                 │   'test_mode': False,                                                                                                                                      │ │
+│ │                 │   'device_or_avd': None,                                                                                                                                   │ │
+│ │                 │   'extra_emulator_args': None,                                                                                                                             │ │
+│ │                 │   'shutdown_on_exit': False,                                                                                                                               │ │
+│ │                 │   ... +1                                                                                                                                                   │ │
+│ │                 }                                                                                                                                                            │ │
+│ │     overrides = {}                                                                                                                                                           │ │
+│ │       printer = <briefcase.console.Printer object at 0x0000016A54F79310>                                                                                                     │ │
+│ │        result = 200                                                                                                                                                          │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                                                                                                  │
+│ C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\venv\Lib\site-packages\briefcase\commands\run.py:314 in __call__                                                          │
+│                                                                                                                                                                                  │
+│   311 │   │                                                                                                                                                                      │
+│   312 │   │   self.verify_app(app)                                                                                                                                               │
+│   313 │   │                                                                                                                                                                      │
+│ ❱ 314 │   │   state = self.run_app(                                                                                                                                              │
+│   315 │   │   │   app,                                                                                                                                                           │
+│   316 │   │   │   test_mode=test_mode,                                                                                                                                           │
+│   317 │   │   │   passthrough=[] if passthrough is None else passthrough,                                                                                                        │
+│                                                                                                                                                                                  │
+│ ╭─────────────────────────────────────────────────────────────────────────────────── locals ───────────────────────────────────────────────────────────────────────────────────╮ │
+│ │                 app = <com.example.helloworld v0.0.1 AppConfig>                                                                                                              │ │
+│ │             appname = None                                                                                                                                                   │ │
+│ │         binary_file = WindowsPath('C:/Arquivos/Pessoais/Dev/Projetos/BeeWare/ConversorMp4/helloworld/build/helloworld/android/gradle/app/build/outputs/apk/debug/app-debug.… │ │
+│ │           no_update = False                                                                                                                                                  │ │
+│ │             options = {'device_or_avd': None, 'extra_emulator_args': None, 'shutdown_on_exit': False}                                                                        │ │
+│ │         passthrough = []                                                                                                                                                     │ │
+│ │                self = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x0000016A56AC58B0>                                                                     │ │
+│ │               state = None                                                                                                                                                   │ │
+│ │       template_file = WindowsPath('C:/Arquivos/Pessoais/Dev/Projetos/BeeWare/ConversorMp4/helloworld/build/helloworld/android/gradle')                                       │ │
+│ │           test_mode = False                                                                                                                                                  │ │
+│ │              update = False                                                                                                                                                  │ │
+│ │ update_requirements = False                                                                                                                                                  │ │
+│ │    update_resources = False                                                                                                                                                  │ │
+│ │      update_support = False                                                                                                                                                  │ │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯ │
+│                                                                                                                                                                                  │
+│ C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\venv\Lib\site-packages\briefcase\platforms\android\gradle.py:398 in run_app                                               │
+│                                                                                                                                                                                  │
+│   395 │   │   │   else:                                                                                                                                                          │
+│   396 │   │   │   │   extra = ""                                                                                                                                                 │
+│   397 │   │   │   self.logger.info(f"Starting emulator {avd}{extra}...", prefix=app.app_name)                                                                                    │
+│ ❱ 398 │   │   │   device, name = self.tools.android_sdk.start_emulator(                                                                                                          │
+│   399 │   │   │   │   avd, extra_emulator_args                                                                                                                                   │
+│   400 │   │   │   )                                                                                                                                                              │
+│   401                                                                                                                                                                            │
+│                                                                                                                                                                                  │
+│ ╭───────────────────────────────────────────────── locals ─────────────────────────────────────────────────╮                                                                     │
+│ │                 app = <com.example.helloworld v0.0.1 AppConfig>                                          │                                                                     │
+│ │                 avd = 'beePhone'                                                                         │                                                                     │
+│ │              device = None                                                                               │                                                                     │
+│ │       device_or_avd = None                                                                               │                                                                     │
+│ │               extra = ''                                                                                 │                                                                     │
+│ │ extra_emulator_args = None                                                                               │                                                                     │
+│ │              kwargs = {}                                                                                 │                                                                     │
+│ │                name = '@beePhone (emulator)'                                                             │                                                                     │
+│ │         passthrough = []                                                                                 │                                                                     │
+│ │                self = <briefcase.platforms.android.gradle.GradleRunCommand object at 0x0000016A56AC58B0> │                                                                     │
+│ │    shutdown_on_exit = False                                                                              │                                                                     │
+│ │           test_mode = False                                                                              │                                                                     │
+│ ╰──────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                                     │
+│                                                                                                                                                                                  │
+│ C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\venv\Lib\site-packages\briefcase\integrations\android_sdk.py:1345 in start_emulator                                       │
+│                                                                                                                                                                                  │
+│   1342 │   │   │   │   known_devices = set()                                                                                                                                     │
+│   1343 │   │   │   │   while adb is None:                                                                                                                                        │
+│   1344 │   │   │   │   │   if emulator_popen.poll() is not None:                                                                                                                 │
+│ ❱ 1345 │   │   │   │   │   │   raise BriefcaseCommandError(                                                                                                                      │
+│   1346 │   │   │   │   │   │   │   failed_startup_error_msg.format(                                                                                                              │
+│   1347 │   │   │   │   │   │   │   │   prologue="Android emulator was unable to start!"                                                                                          │
+│   1348 │   │   │   │   │   │   │   )                                                                                                                                             │
+│                                                                                                                                                                                  │
+│ ╭────────────────────────────────────────────────────────── locals ──────────────────────────────────────────────────────────╮                                                   │
+│ │                      adb = None                                                                                            │                                                   │
+│ │                      avd = 'beePhone'                                                                                      │                                                   │
+│ │         emulator_command = 'C:\\Users\\julierme.silva\\AppData\\Local\\BeeWare\\briefcase\\Cache\\tools\\android_sdk\\'+53 │                                                   │
+│ │           emulator_popen = <Popen: returncode: 1 args: ['C:\\Users\\julierme.silva\\AppData\\Local\\Bee...>                │                                                   │
+│ │               extra_args = []                                                                                              │                                                   │
+│ │ failed_startup_error_msg = '{prologue}\n\nReview the emulator output above for:\n - Troubleshooting or resoluti'+560       │                                                   │
+│ │        general_error_msg = '\nReview the emulator output above for:\n - Troubleshooting or resolution steps su'+549        │                                                   │
+│ │            known_devices = set()                                                                                           │                                                   │
+│ │                     self = <briefcase.integrations.android_sdk.AndroidSDK object at 0x0000016A559466C0>                    │                                                   │
+│ ╰────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯                                                   │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯
+BriefcaseCommandError: Android emulator was unable to start!
+
+Review the emulator output above for:
+ - Troubleshooting or resolution steps such as enabling hardware acceleration
+ - Other errors or warnings that may be suggesting the cause of the startup failure
+
+Ensure your Android SDK is up-to-date by running:
+
+    $ briefcase update android_sdk
+
+To review Google's general troubleshooting steps for the emulator, visit:
+
+    https://developer.android.com/studio/run/emulator-troubleshooting
+
+You can also start the emulator manually by running:
+
+    $ C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\emulator\emulator.exe "@beePhone" -dns-server 8.8.8.8
+
+                                                                                                                                                                      console.py:418
+           Extra information:                                                                                                                                         console.py:419
+                                                                                                                                                                   subprocess.py:711
+           >>> Running Command:                                                                                                                                    subprocess.py:711
+           >>>     'C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk\cmdline-tools\9.0\bin\sdkmanager.bat' --list_installed         subprocess.py:711
+           >>> Working Directory:                                                                                                                                  subprocess.py:711
+           >>>     C:\Arquivos\Pessoais\Dev\Projetos\BeeWare\ConversorMp4\helloworld                                                                               subprocess.py:711
+           >>> Environment Overrides:                                                                                                                              subprocess.py:711
+           >>>     ANDROID_HOME=C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                    subprocess.py:711
+           >>>     ANDROID_SDK_ROOT=C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\android_sdk                                                subprocess.py:711
+           >>>     JAVA_HOME=C:\Users\julierme.silva\AppData\Local\BeeWare\briefcase\Cache\tools\java17                                                            subprocess.py:711
+[11:48:57] >>> Command Output:                                                                                                                                     subprocess.py:711
+           >>>     Loading package information...                                                                                                                  subprocess.py:711
+           >>>     Loading local repository...                                                                                                                     subprocess.py:711
+           >>>     [=========                              ] 25% Loading local repository...                                                                       subprocess.py:711
+           >>>     [=========                              ] 25% Fetch remote repository...                                                                        subprocess.py:711
+           >>>     [=======================================] 100% Fetch remote repository...                                                                       subprocess.py:711
+           >>>                                                                                                                                                     subprocess.py:711
+           >>>     Installed packages:                                                                                                                             subprocess.py:711
+           >>>       Path                                    | Version | Description                    | Location                                                 subprocess.py:711
+           >>>       -------                                 | ------- | -------                        | -------                                                  subprocess.py:711
+           >>>       build-tools;34.0.0                      | 34.0.0  | Android SDK Build-Tools 34     | build-tools\34.0.0                                       subprocess.py:711
+           >>>       emulator                                | 33.1.24 | Android Emulator               | emulator                                                 subprocess.py:711
+           >>>       platform-tools                          | 35.0.0  | Android SDK Platform-Tools     | platform-tools                                           subprocess.py:711
+           >>>       platforms;android-34                    | 3       | Android SDK Platform 34        | platforms\android-34                                     subprocess.py:711
+           >>>       system-images;android-31;default;x86_64 | 5       | Intel x86_64 Atom System Image | system-images\android-31\default\x86_64                  subprocess.py:711
+           >>>                                                                                                                                                     subprocess.py:711
+           >>> Return code: 0                                                                                                                                      subprocess.py:711
